@@ -4,6 +4,7 @@ Planetary Terrain is a Unity Asset for spherical terrain with dynamic quadtree-b
 
 The bulk of this code was written by me from 2017 to 2018, and sold on the Unity Asset Store until 2023. Because the asset is no longer maintained, I have decided to open source it.
 
+FPS Controller 是一个无限地图的Demo，值得深入研究
 ## Images
 
 https://github.com/mathis-s/PlanetaryTerrain/assets/39701487/e2a95afd-ea25-4b73-bf97-a98551a2aa5c
@@ -25,4 +26,3 @@ https://github.com/mathis-s/PlanetaryTerrain/assets/39701487/e2a95afd-ea25-4b73-
 ## Licensing
 This project is now licensed under the MIT License. If so desired, the original Unity Asset Store license applies for those who bought the asset on the Asset Store.
 
-FPS Controller 是一个无限地图的Demo，值得深入研究
